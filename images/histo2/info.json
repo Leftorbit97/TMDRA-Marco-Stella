@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 35,
+    "height" : 13
+  }, {
+    "width" : 69,
+    "height" : 25
+  }, {
+    "width" : 137,
+    "height" : 49
+  }, {
+    "width" : 273,
+    "height" : 98
+  }, {
+    "width" : 545,
+    "height" : 195
+  }, {
+    "width" : 1089,
+    "height" : 390
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1089,
+  "@id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/histo2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 390
+}
