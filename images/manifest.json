@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 330,
+    "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/wordcloud/canvas/",
+    "label" : {
+      "none" : [ "wordcloud" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/wordcloud/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/wordcloud/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 11,
+              "height" : 7
+            }, {
+              "width" : 21,
+              "height" : 13
+            }, {
+              "width" : 42,
+              "height" : 25
+            }, {
+              "width" : 83,
+              "height" : 50
+            }, {
+              "width" : 165,
+              "height" : 99
+            }, {
+              "width" : 330,
+              "height" : 197
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 330,
+            "@id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/wordcloud",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 197
+          } ],
+          "format" : "image/jpeg",
+          "width" : 330,
+          "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/wordcloud/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 197
+        },
+        "target" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/wordcloud/canvas/"
+      } ]
+    } ],
+    "height" : 197
+  }, {
     "width" : 407,
     "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/overkill/canvas/",
     "label" : {
