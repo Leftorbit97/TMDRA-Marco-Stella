@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 407,
+    "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/overkill/canvas/",
+    "label" : {
+      "none" : [ "overkill" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/overkill/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/overkill/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 13,
+              "height" : 44
+            }, {
+              "width" : 26,
+              "height" : 88
+            }, {
+              "width" : 51,
+              "height" : 176
+            }, {
+              "width" : 102,
+              "height" : 351
+            }, {
+              "width" : 204,
+              "height" : 701
+            }, {
+              "width" : 407,
+              "height" : 1401
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 407,
+            "@id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/overkill",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1401
+          } ],
+          "format" : "image/jpeg",
+          "width" : 407,
+          "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/overkill/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1401
+        },
+        "target" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/overkill/canvas/"
+      } ]
+    } ],
+    "height" : 1401
+  }, {
     "width" : 781,
     "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/histo1/canvas/",
     "label" : {
