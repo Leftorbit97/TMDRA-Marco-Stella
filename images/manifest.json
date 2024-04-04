@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 421,
+    "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN2/canvas/",
+    "label" : {
+      "none" : [ "CNN2" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN2/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN2/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 14,
+              "height" : 24
+            }, {
+              "width" : 27,
+              "height" : 47
+            }, {
+              "width" : 53,
+              "height" : 93
+            }, {
+              "width" : 106,
+              "height" : 185
+            }, {
+              "width" : 211,
+              "height" : 369
+            }, {
+              "width" : 421,
+              "height" : 737
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 421,
+            "@id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN2",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 737
+          } ],
+          "format" : "image/jpeg",
+          "width" : 421,
+          "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN2/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 737
+        },
+        "target" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN2/canvas/"
+      } ]
+    } ],
+    "height" : 737
+  }, {
     "width" : 431,
     "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN1/canvas/",
     "label" : {
