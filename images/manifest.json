@@ -1,0 +1,66 @@
+{
+  "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Leftorbit97/TMDRA-Marco-Stella project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 431,
+    "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN1/canvas/",
+    "label" : {
+      "none" : [ "CNN1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 14,
+              "height" : 13
+            }, {
+              "width" : 27,
+              "height" : 26
+            }, {
+              "width" : 54,
+              "height" : 51
+            }, {
+              "width" : 108,
+              "height" : 102
+            }, {
+              "width" : 216,
+              "height" : 203
+            }, {
+              "width" : 431,
+              "height" : 405
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 431,
+            "@id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 405
+          } ],
+          "format" : "image/jpeg",
+          "width" : 431,
+          "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 405
+        },
+        "target" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/CNN1/canvas/"
+      } ]
+    } ],
+    "height" : 405
+  } ]
+}
