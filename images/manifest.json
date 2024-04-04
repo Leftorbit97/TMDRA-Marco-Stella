@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 364,
+    "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/gru_model2/canvas/",
+    "label" : {
+      "none" : [ "gru_model2" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/gru_model2/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/gru_model2/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 12,
+              "height" : 27
+            }, {
+              "width" : 23,
+              "height" : 53
+            }, {
+              "width" : 46,
+              "height" : 106
+            }, {
+              "width" : 91,
+              "height" : 212
+            }, {
+              "width" : 182,
+              "height" : 424
+            }, {
+              "width" : 364,
+              "height" : 848
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 364,
+            "@id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/gru_model2",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 848
+          } ],
+          "format" : "image/jpeg",
+          "width" : 364,
+          "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/gru_model2/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 848
+        },
+        "target" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/gru_model2/canvas/"
+      } ]
+    } ],
+    "height" : 848
+  }, {
     "width" : 330,
     "id" : "https://Leftorbit97.github.io/TMDRA Marco Stella/images/wordcloud/canvas/",
     "label" : {
